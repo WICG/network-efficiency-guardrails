@@ -24,7 +24,7 @@ This allows applications to become aware of inefficient network behavior which i
 ## Participate
 <a href="https://github.com/MicrosoftEdge/MSEdgeExplainers/labels/Network%20Efficiency%20Guardrails">![GitHub issues by-label](https://img.shields.io/github/issues/MicrosoftEdge/MSEdgeExplainers/Network%20Efficiency%20Guardrails?label=issues)</a>
 
-[Open an issue](https://github.com/MicrosoftEdge/MSEdgeExplainers/issues/new?template=performance-control-of-embedded-content.md)
+[Open an issue](https://github.com/WICG/network-efficiency-guardrails/issues)
 
 ## Table of Contents
 
